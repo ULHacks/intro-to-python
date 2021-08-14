@@ -6,7 +6,9 @@ print "python2 feature"
 # Examples of runtime errors (NameError, TypeError, ValueError, IndexError)
 """
 print(a)
+
 print("2"+2)
+
 a = int(input())
 
 a = [1, 2, 3, 4, 5]
