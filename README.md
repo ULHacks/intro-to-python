@@ -1,2 +1,2 @@
-# intro-to-python
-Files from the Intro to Python workshop
+# Intro to Python
+These files were coded live to accompany the presentation
