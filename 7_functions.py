@@ -1,10 +1,10 @@
-# The most basic python function
+# A basic Python function
 def f():
     return 0
 
 print(f())
 
-# All python functions return a value
+# All Python functions return a value
 def f():
     print("hello, world")
 
