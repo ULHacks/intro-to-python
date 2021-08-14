@@ -10,9 +10,9 @@ li2.remove("3")
 print(li2)
 
 li2.pop(1)
-print(li2, len(li2))
+print(li2)
 
-print(li2[2])
+print(len(li2), li2[2])
 
 # Ways to declare a tuple
 tp1 = tuple()
