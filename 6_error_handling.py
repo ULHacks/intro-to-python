@@ -13,7 +13,7 @@ a = [1, 2, 3, 4, 5]
 print(a[-6])
 """
 
-# Catching an IndexError example
+# Example of catching an error
 while True:
     try:
         age = int(input())
