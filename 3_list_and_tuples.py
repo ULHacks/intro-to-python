@@ -16,6 +16,9 @@ tp1 = tuple()
 tp2 = (1, 2, 3, 4)
 
 # Some list operations don't work on tuples
+"""
+tp2.append(9)
+"""
 print(len(tp2))
 
 # Convering from lists to tuples and vice versa
