@@ -1,4 +1,4 @@
-# Examples of a syntax error
+# Example of a syntax error
 """
 print "python2 feature"
 """
