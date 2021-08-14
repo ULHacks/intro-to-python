@@ -1,5 +1,5 @@
 # Some basic data types include `str`, `int`, `float`, and `bool`
-str1 = "dfjkds;fjksdl"
+str1 = "Welcome to ULHakcks"
 int1 = 3
 float1 = 3.2
 bool1 = False
