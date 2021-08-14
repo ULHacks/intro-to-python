@@ -6,13 +6,17 @@ print(3//2)
 print(9%2)
 print(9**2)
 
-# Comparing with == and !=, inequalities
+# Comparing with ==, !=, and inequalities
 print(1 == 2)
 print(1 != 2)
 print(2 <= 2)
 
 # Using operators with equal signs (+=, -=)
 a = 2
+
+a += 1
+print(a)
+
 a -= 1
 print(a)
 
